@@ -1,0 +1,209 @@
+20000068 00000001 b completed.1
+2000005c 00000001 D uwTickFreq	/home/nathancharlesjones/Documents/Work/DigiKey/2026/videos/intro_to_lua/03_lua_and_HAL/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c:96
+0800351c 00000002 W ADC_IRQHandler
+08001f40 00000002 W __aeabi_idiv0	/build/gcc-arm-none-eabi-qAIoQe/gcc-arm-none-eabi-14.2.rel1/build/arm-none-eabi/thumb/v7e-m+fp/hard/libgcc/../../../../../../libgcc/config/arm/lib1funcs.S:1466
+08001f40 00000002 W __aeabi_ldiv0	/build/gcc-arm-none-eabi-qAIoQe/gcc-arm-none-eabi-14.2.rel1/build/arm-none-eabi/thumb/v7e-m+fp/hard/libgcc/../../../../../../libgcc/config/arm/lib1funcs.S:1466
+08002176 00000002 T BusFault_Handler	/home/nathancharlesjones/Documents/Work/DigiKey/2026/videos/intro_to_lua/03_lua_and_HAL/Core/Src/stm32f4xx_it.c:114
+0800217c 00000002 T DebugMon_Handler	/home/nathancharlesjones/Documents/Work/DigiKey/2026/videos/intro_to_lua/03_lua_and_HAL/Core/Src/stm32f4xx_it.c:157
+0800351c 00000002 T Default_Handler
+0800351c 00000002 W DMA1_Stream0_IRQHandler
+0800351c 00000002 W DMA1_Stream1_IRQHandler
+0800351c 00000002 W DMA1_Stream2_IRQHandler
+0800351c 00000002 W DMA1_Stream3_IRQHandler
+0800351c 00000002 W DMA1_Stream4_IRQHandler
+0800351c 00000002 W DMA1_Stream5_IRQHandler
+0800351c 00000002 W DMA1_Stream6_IRQHandler
+0800351c 00000002 W DMA1_Stream7_IRQHandler
+0800351c 00000002 W DMA2_Stream0_IRQHandler
+0800351c 00000002 W DMA2_Stream1_IRQHandler
+0800351c 00000002 W DMA2_Stream2_IRQHandler
+0800351c 00000002 W DMA2_Stream3_IRQHandler
+0800351c 00000002 W DMA2_Stream4_IRQHandler
+0800351c 00000002 W DMA2_Stream5_IRQHandler
+0800351c 00000002 W DMA2_Stream6_IRQHandler
+0800351c 00000002 W DMA2_Stream7_IRQHandler
+0800351c 00000002 W EXTI0_IRQHandler
+0800351c 00000002 W EXTI15_10_IRQHandler
+0800351c 00000002 W EXTI1_IRQHandler
+0800351c 00000002 W EXTI2_IRQHandler
+0800351c 00000002 W EXTI3_IRQHandler
+0800351c 00000002 W EXTI4_IRQHandler
+0800351c 00000002 W EXTI9_5_IRQHandler
+0800351c 00000002 W FLASH_IRQHandler
+0800351c 00000002 W FPU_IRQHandler
+08002172 00000002 T HardFault_Handler	/home/nathancharlesjones/Documents/Work/DigiKey/2026/videos/intro_to_lua/03_lua_and_HAL/Core/Src/stm32f4xx_it.c:84
+0800351c 00000002 W I2C1_ER_IRQHandler
+0800351c 00000002 W I2C1_EV_IRQHandler
+0800351c 00000002 W I2C2_ER_IRQHandler
+0800351c 00000002 W I2C2_EV_IRQHandler
+0800351c 00000002 W I2C3_ER_IRQHandler
+0800351c 00000002 W I2C3_EV_IRQHandler
+080012f4 00000002 T __malloc_lock	/build/newlib-Ipb6mw/newlib-4.6.0.20260123/newlib/libc/include/malloc.h:136
+080012f8 00000002 T __malloc_unlock	/build/newlib-Ipb6mw/newlib-4.6.0.20260123/newlib/libc/include/malloc.h:138
+08002174 00000002 T MemManage_Handler	/home/nathancharlesjones/Documents/Work/DigiKey/2026/videos/intro_to_lua/03_lua_and_HAL/Core/Src/stm32f4xx_it.c:99
+08002170 00000002 T NMI_Handler	/home/nathancharlesjones/Documents/Work/DigiKey/2026/videos/intro_to_lua/03_lua_and_HAL/Core/Src/stm32f4xx_it.c:69
+0800351c 00000002 W OTG_FS_IRQHandler
+0800351c 00000002 W OTG_FS_WKUP_IRQHandler
+0800217e 00000002 T PendSV_Handler	/home/nathancharlesjones/Documents/Work/DigiKey/2026/videos/intro_to_lua/03_lua_and_HAL/Core/Src/stm32f4xx_it.c:170
+0800351c 00000002 W PVD_IRQHandler
+0800351c 00000002 W RCC_IRQHandler
+0800351c 00000002 W RTC_Alarm_IRQHandler
+0800351c 00000002 W RTC_WKUP_IRQHandler
+0800351c 00000002 W SDIO_IRQHandler
+0800170c 00000002 T __sfp_lock_acquire	/build/newlib-Ipb6mw/newlib-4.6.0.20260123/build_nano/arm-none-eabi/thumb/v7e-m+fp/hard/newlib/../../../../../../newlib/libc/stdio/findfp.c:267
+08001710 00000002 T __sfp_lock_release	/build/newlib-Ipb6mw/newlib-4.6.0.20260123/build_nano/arm-none-eabi/thumb/v7e-m+fp/hard/newlib/../../../../../../newlib/libc/stdio/findfp.c:273
+0800351c 00000002 W SPI1_IRQHandler
+0800351c 00000002 W SPI2_IRQHandler
+0800351c 00000002 W SPI3_IRQHandler
+0800351c 00000002 W SPI4_IRQHandler
+0800351c 00000002 W SPI5_IRQHandler
+0800217a 00000002 T SVC_Handler	/home/nathancharlesjones/Documents/Work/DigiKey/2026/videos/intro_to_lua/03_lua_and_HAL/Core/Src/stm32f4xx_it.c:144
+0800351c 00000002 W TAMP_STAMP_IRQHandler
+0800351c 00000002 W TIM1_BRK_TIM9_IRQHandler
+0800351c 00000002 W TIM1_CC_IRQHandler
+0800351c 00000002 W TIM1_TRG_COM_TIM11_IRQHandler
+0800351c 00000002 W TIM1_UP_TIM10_IRQHandler
+0800351c 00000002 W TIM2_IRQHandler
+0800351c 00000002 W TIM3_IRQHandler
+0800351c 00000002 W TIM4_IRQHandler
+0800351c 00000002 W TIM5_IRQHandler
+08002178 00000002 T UsageFault_Handler	/home/nathancharlesjones/Documents/Work/DigiKey/2026/videos/intro_to_lua/03_lua_and_HAL/Core/Src/stm32f4xx_it.c:129
+0800351c 00000002 W USART1_IRQHandler
+0800351c 00000002 W USART2_IRQHandler
+0800351c 00000002 W USART6_IRQHandler
+0800351c 00000002 W WWDG_IRQHandler
+200001c8 00000004 B errno	/build/newlib-Ipb6mw/newlib-4.6.0.20260123/build_nano/arm-none-eabi/thumb/v7e-m+fp/hard/newlib/../../../../../../newlib/libc/reent/reent.c:26
+080034f2 00000004 t FillZerobss
+08003598 00000004 r __fini_array_start
+08001518 00000004 t __fp_lock	/build/newlib-Ipb6mw/newlib-4.6.0.20260123/build_nano/arm-none-eabi/thumb/v7e-m+fp/hard/newlib/../../../../../../newlib/libc/stdio/findfp.c:280
+08001574 00000004 t __fp_unlock	/build/newlib-Ipb6mw/newlib-4.6.0.20260123/build_nano/arm-none-eabi/thumb/v7e-m+fp/hard/newlib/../../../../../../newlib/libc/stdio/findfp.c:290
+20000000 00000004 D _impure_ptr	/build/newlib-Ipb6mw/newlib-4.6.0.20260123/newlib/libc/include/sys/reent.h:805
+08003594 00000004 r __init_array_start
+08002dfc 00000004 T _isatty	/home/nathancharlesjones/Documents/Work/DigiKey/2026/videos/intro_to_lua/03_lua_and_HAL/Core/Src/syscalls.c:106
+08002e00 00000004 T _lseek	/home/nathancharlesjones/Documents/Work/DigiKey/2026/videos/intro_to_lua/03_lua_and_HAL/Core/Src/syscalls.c:112
+200001c4 00000004 B __malloc_free_list	/build/newlib-Ipb6mw/newlib-4.6.0.20260123/build_nano/arm-none-eabi/thumb/v7e-m+fp/hard/newlib/../../../../../../newlib/libc/stdlib/nano-mallocr.c:198
+200001c0 00000004 B __malloc_sbrk_start	/build/newlib-Ipb6mw/newlib-4.6.0.20260123/build_nano/arm-none-eabi/thumb/v7e-m+fp/hard/newlib/../../../../../../newlib/libc/stdlib/nano-mallocr.c:201
+20000218 00000004 b __sbrk_heap_end	/home/nathancharlesjones/Documents/Work/DigiKey/2026/videos/intro_to_lua/03_lua_and_HAL/Core/Src/sysmem.c:31
+20000068 00000004 B _sbss
+20000000 00000004 D _sdata
+08001830 00000004 T __seofread	/build/newlib-Ipb6mw/newlib-4.6.0.20260123/build_nano/arm-none-eabi/thumb/v7e-m+fp/hard/newlib/../../../../../../newlib/libc/stdio/stdio.c:65
+200001bc 00000004 B __stdio_exit_handler	/build/newlib-Ipb6mw/newlib-4.6.0.20260123/newlib/libc/include/sys/reent.h:928
+20000064 00000004 D SystemCoreClock	/home/nathancharlesjones/Documents/Work/DigiKey/2026/videos/intro_to_lua/03_lua_and_HAL/Core/Src/system_stm32f4xx.c:137
+08002180 00000004 T SysTick_Handler	/home/nathancharlesjones/Documents/Work/DigiKey/2026/videos/intro_to_lua/03_lua_and_HAL/Core/Src/stm32f4xx_it.c:183
+20000214 00000004 B uwTick	/home/nathancharlesjones/Documents/Work/DigiKey/2026/videos/intro_to_lua/03_lua_and_HAL/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c:94
+20000060 00000004 D uwTickPrio	/home/nathancharlesjones/Documents/Work/DigiKey/2026/videos/intro_to_lua/03_lua_and_HAL/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c:95
+08002dec 00000006 T _close	/home/nathancharlesjones/Documents/Work/DigiKey/2026/videos/intro_to_lua/03_lua_and_HAL/Core/Src/syscalls.c:92
+080034de 00000006 t CopyDataInit
+08001f84 00000006 t put_char	/home/nathancharlesjones/Documents/Work/DigiKey/2026/videos/intro_to_lua/03_lua_and_HAL/Core/Src/main.c:78
+08003571 00000008 R APBPrescTable	/home/nathancharlesjones/Documents/Work/DigiKey/2026/videos/intro_to_lua/03_lua_and_HAL/Core/Src/system_stm32f4xx.c:139
+080034c4 00000008 T embedded_cli_prompt	/home/nathancharlesjones/Documents/CodeLibraries/embeddedcli/embedded_cli.c:507
+0800358c 00000008 R __exidx_start
+08001898 00000008 T __sclose	/build/newlib-Ipb6mw/newlib-4.6.0.20260123/build_nano/arm-none-eabi/thumb/v7e-m+fp/hard/newlib/../../../../../../newlib/libc/stdio/stdio.c:125
+08002df2 0000000a T _fstat	/home/nathancharlesjones/Documents/Work/DigiKey/2026/videos/intro_to_lua/03_lua_and_HAL/Core/Src/syscalls.c:99
+08002c08 0000000a T HAL_GPIO_WritePin	/home/nathancharlesjones/Documents/Work/DigiKey/2026/videos/intro_to_lua/03_lua_and_HAL/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c:410
+080034b8 0000000c T embedded_cli_get_line	/home/nathancharlesjones/Documents/CodeLibraries/embeddedcli/embedded_cli.c:422
+080012fc 0000000c T __errno	/build/newlib-Ipb6mw/newlib-4.6.0.20260123/newlib/libc/include/sys/errno.h:19
+0800352c 0000000c T _fini
+08002d58 0000000c W HAL_GetTick	/home/nathancharlesjones/Documents/Work/DigiKey/2026/videos/intro_to_lua/03_lua_and_HAL/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c:323
+08003520 0000000c T _init
+20000050 0000000c D __sglue	/build/newlib-Ipb6mw/newlib-4.6.0.20260123/newlib/libc/include/sys/reent.h:283
+080034e4 0000000e t LoopCopyDataInit
+08003579 00000010 R AHBPrescTable	/home/nathancharlesjones/Documents/Work/DigiKey/2026/videos/intro_to_lua/03_lua_and_HAL/Core/Src/system_stm32f4xx.c:138
+08000b78 00000010 T puts	/build/newlib-Ipb6mw/newlib-4.6.0.20260123/newlib/libc/include/stdio.h:227
+08001714 00000014 T __fp_lock_all	/build/newlib-Ipb6mw/newlib-4.6.0.20260123/build_nano/arm-none-eabi/thumb/v7e-m+fp/hard/newlib/../../../../../../newlib/libc/stdio/findfp.c:299
+08001728 00000014 T __fp_unlock_all	/build/newlib-Ipb6mw/newlib-4.6.0.20260123/build_nano/arm-none-eabi/thumb/v7e-m+fp/hard/newlib/../../../../../../newlib/libc/stdio/findfp.c:306
+08002d64 00000014 T SystemInit	/home/nathancharlesjones/Documents/Work/DigiKey/2026/videos/intro_to_lua/03_lua_and_HAL/Core/Src/system_stm32f4xx.c:167
+08002d40 00000018 W HAL_IncTick	/home/nathancharlesjones/Documents/Work/DigiKey/2026/videos/intro_to_lua/03_lua_and_HAL/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c:312
+2000006c 00000018 b object.0
+0800151c 00000018 t stdio_exit_handler	/build/newlib-Ipb6mw/newlib-4.6.0.20260123/build_nano/arm-none-eabi/thumb/v7e-m+fp/hard/newlib/../../../../../../newlib/libc/stdio/findfp.c:153
+080017f4 00000018 T __swbuf	/build/newlib-Ipb6mw/newlib-4.6.0.20260123/build_nano/arm-none-eabi/thumb/v7e-m+fp/hard/newlib/../../../../../../newlib/libc/stdio/wbuf.c:91
+080001c0 0000001c t deregister_tm_clones
+08002db4 0000001c W _read	/home/nathancharlesjones/Documents/Work/DigiKey/2026/videos/intro_to_lua/03_lua_and_HAL/Core/Src/syscalls.c:67
+08002dd0 0000001c W _write	/home/nathancharlesjones/Documents/Work/DigiKey/2026/videos/intro_to_lua/03_lua_and_HAL/Core/Src/syscalls.c:80
+08002e34 0000001e t cli_puts	/home/nathancharlesjones/Documents/CodeLibraries/embeddedcli/embedded_cli.c:27
+08000228 00000020 t frame_dummy
+08002a3c 00000020 T HAL_RCC_GetPCLK1Freq	/home/nathancharlesjones/Documents/Work/DigiKey/2026/videos/intro_to_lua/03_lua_and_HAL/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c:954
+08002a5c 00000020 T HAL_RCC_GetPCLK2Freq	/home/nathancharlesjones/Documents/Work/DigiKey/2026/videos/intro_to_lua/03_lua_and_HAL/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c:966
+08001f44 00000020 T __io_getchar	/home/nathancharlesjones/Documents/Work/DigiKey/2026/videos/intro_to_lua/03_lua_and_HAL/Core/Src/main.c:65
+08001f64 00000020 T __io_putchar	/home/nathancharlesjones/Documents/Work/DigiKey/2026/videos/intro_to_lua/03_lua_and_HAL/Core/Src/main.c:72
+080016ec 00000020 T __sinit	/build/newlib-Ipb6mw/newlib-4.6.0.20260123/build_nano/arm-none-eabi/thumb/v7e-m+fp/hard/newlib/../../../../../../newlib/libc/stdio/findfp.c:245
+08002f4c 00000022 t embedded_cli_get_history_search	/home/nathancharlesjones/Documents/CodeLibraries/embeddedcli/embedded_cli.c:91
+0800180c 00000022 T __sread	/build/newlib-Ipb6mw/newlib-4.6.0.20260123/build_nano/arm-none-eabi/thumb/v7e-m+fp/hard/newlib/../../../../../../newlib/libc/stdio/stdio.c:33
+08001874 00000022 T __sseek	/build/newlib-Ipb6mw/newlib-4.6.0.20260123/build_nano/arm-none-eabi/thumb/v7e-m+fp/hard/newlib/../../../../../../newlib/libc/stdio/stdio.c:105
+08001b28 00000024 T _close_r	/build/newlib-Ipb6mw/newlib-4.6.0.20260123/newlib/libc/include/reent.h:140
+08002c14 00000024 T HAL_NVIC_SetPriorityGrouping	/home/nathancharlesjones/Documents/Work/DigiKey/2026/videos/intro_to_lua/03_lua_and_HAL/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c:141
+08001ba4 00000024 T _isatty_r	/build/newlib-Ipb6mw/newlib-4.6.0.20260123/newlib/libc/include/reent.h:146
+080001dc 00000024 t register_tm_clones
+08001bc8 00000024 T _sbrk_r	/build/newlib-Ipb6mw/newlib-4.6.0.20260123/newlib/libc/include/reent.h:154
+080034f6 00000026 t LoopFillZerobss
+08000200 00000028 t __do_global_dtors_aux
+08002c9c 00000028 T HAL_SYSTICK_Config	/home/nathancharlesjones/Documents/Work/DigiKey/2026/videos/intro_to_lua/03_lua_and_HAL/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c:227
+08001bec 0000002c T _fstat_r	/build/newlib-Ipb6mw/newlib-4.6.0.20260123/newlib/libc/include/reent.h:144
+08001b4c 0000002c T _lseek_r	/build/newlib-Ipb6mw/newlib-4.6.0.20260123/newlib/libc/include/reent.h:149
+08001afc 0000002c T _read_r	/build/newlib-Ipb6mw/newlib-4.6.0.20260123/newlib/libc/include/reent.h:152
+08001b78 0000002c T _write_r	/build/newlib-Ipb6mw/newlib-4.6.0.20260123/newlib/libc/include/reent.h:159
+0800173c 0000002e T strnlen	/build/newlib-Ipb6mw/newlib-4.6.0.20260123/newlib/libc/include/string.h:121
+08001c18 00000030 T __aeabi_uldivmod	/build/gcc-arm-none-eabi-qAIoQe/gcc-arm-none-eabi-14.2.rel1/build/arm-none-eabi/thumb/v7e-m+fp/hard/libgcc/../../../../../../libgcc/config/arm/bpabi.S:254
+08002e04 00000030 t cli_putchar	/home/nathancharlesjones/Documents/CodeLibraries/embeddedcli/embedded_cli.c:16
+08002eda 00000034 T embedded_cli_init	/home/nathancharlesjones/Documents/CodeLibraries/embeddedcli/embedded_cli.c:45
+08002d0c 00000034 T HAL_Init	/home/nathancharlesjones/Documents/Work/DigiKey/2026/videos/intro_to_lua/03_lua_and_HAL/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c:157
+080004a0 00000036 T _fflush_r	/build/newlib-Ipb6mw/newlib-4.6.0.20260123/newlib/libc/include/stdio.h:417
+080034cc 00000038 W Reset_Handler
+08002184 0000003c T HAL_MspInit	/home/nathancharlesjones/Documents/Work/DigiKey/2026/videos/intro_to_lua/03_lua_and_HAL/Core/Src/stm32f4xx_hal_msp.c:62
+08002d78 0000003c T _sbrk	/home/nathancharlesjones/Documents/Work/DigiKey/2026/videos/intro_to_lua/03_lua_and_HAL/Core/Src/sysmem.c:54
+08002f0e 0000003e T embedded_cli_get_history	/home/nathancharlesjones/Documents/CodeLibraries/embeddedcli/embedded_cli.c:133
+08001834 0000003e T __swrite	/build/newlib-Ipb6mw/newlib-4.6.0.20260123/build_nano/arm-none-eabi/thumb/v7e-m+fp/hard/newlib/../../../../../../newlib/libc/stdio/stdio.c:74
+08001534 00000040 t cleanup_stdio	/build/newlib-Ipb6mw/newlib-4.6.0.20260123/build_nano/arm-none-eabi/thumb/v7e-m+fp/hard/newlib/../../../../../../newlib/libc/stdio/findfp.c:230
+08000cb8 00000044 T _fwalk_sglue	/build/newlib-Ipb6mw/newlib-4.6.0.20260123/newlib/libc/include/sys/reent.h:932
+08002e52 00000044 t term_cursor_back	/home/nathancharlesjones/Documents/CodeLibraries/embeddedcli/embedded_cli.c:66
+08002e96 00000044 t term_cursor_fwd	/home/nathancharlesjones/Documents/CodeLibraries/embeddedcli/embedded_cli.c:75
+08002cc4 00000048 W HAL_InitTick	/home/nathancharlesjones/Documents/Work/DigiKey/2026/videos/intro_to_lua/03_lua_and_HAL/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c:253
+200001cc 00000048 B huart2	/home/nathancharlesjones/Documents/Work/DigiKey/2026/videos/intro_to_lua/03_lua_and_HAL/Core/Src/main.c:49
+080019b4 00000048 t sbrk_aligned	/build/newlib-Ipb6mw/newlib-4.6.0.20260123/build_nano/arm-none-eabi/thumb/v7e-m+fp/hard/newlib/../../../../../../newlib/libc/stdlib/nano-mallocr.c:209
+080004d8 0000004c T fflush	/build/newlib-Ipb6mw/newlib-4.6.0.20260123/newlib/libc/include/stdio.h:198
+20000004 0000004c D _impure_data	/build/newlib-Ipb6mw/newlib-4.6.0.20260123/newlib/libc/include/sys/reent.h:811
+08001964 0000004e T __swhatbuf_r	/build/newlib-Ipb6mw/newlib-4.6.0.20260123/build_nano/arm-none-eabi/thumb/v7e-m+fp/hard/newlib/../../../../../../newlib/libc/stdio/makebuf.c:77
+0800146c 00000050 T __libc_init_array	/build/newlib-Ipb6mw/newlib-4.6.0.20260123/build_nano/arm-none-eabi/thumb/v7e-m+fp/hard/newlib/../../../../../../newlib/libc/misc/init.c:30
+080014bc 0000005a T memcmp	/build/newlib-Ipb6mw/newlib-4.6.0.20260123/newlib/libc/include/string.h:30
+08002fec 0000005c t embedded_cli_stop_search	/home/nathancharlesjones/Documents/CodeLibraries/embeddedcli/embedded_cli.c:180
+080028ac 0000005c W HAL_RCC_GetSysClockFreq	/home/nathancharlesjones/Documents/Work/DigiKey/2026/videos/intro_to_lua/03_lua_and_HAL/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c:885
+0800222c 0000005c t UART_EndRxTransfer	/home/nathancharlesjones/Documents/Work/DigiKey/2026/videos/intro_to_lua/03_lua_and_HAL/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c:3370
+080023a8 0000005e T HAL_UART_Init	/home/nathancharlesjones/Documents/Work/DigiKey/2026/videos/intro_to_lua/03_lua_and_HAL/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c:357
+08002c38 00000064 T HAL_NVIC_SetPriority	/home/nathancharlesjones/Documents/Work/DigiKey/2026/videos/intro_to_lua/03_lua_and_HAL/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c:163
+08002344 00000064 t UART_WaitOnFlagUntilTimeout.constprop.0	/home/nathancharlesjones/Documents/Work/DigiKey/2026/videos/intro_to_lua/03_lua_and_HAL/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c:3212
+08001404 00000068 T strncpy	/build/newlib-Ipb6mw/newlib-4.6.0.20260123/newlib/libc/include/string.h:44
+080021c0 0000006c T HAL_UART_MspInit	/home/nathancharlesjones/Documents/Work/DigiKey/2026/videos/intro_to_lua/03_lua_and_HAL/Core/Src/stm32f4xx_hal_msp.c:87
+08002f70 0000007c t embedded_cli_insert_default_char	/home/nathancharlesjones/Documents/CodeLibraries/embeddedcli/embedded_cli.c:104
+0800176c 00000086 T __swbuf_r	/build/newlib-Ipb6mw/newlib-4.6.0.20260123/newlib/libc/include/stdio.h:584
+08000ae8 0000008e T _puts_r	/build/newlib-Ipb6mw/newlib-4.6.0.20260123/newlib/libc/include/stdio.h:471
+08002406 0000009c T HAL_UART_Transmit	/home/nathancharlesjones/Documents/Work/DigiKey/2026/videos/intro_to_lua/03_lua_and_HAL/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c:1135
+08001258 0000009c T memset	/build/newlib-Ipb6mw/newlib-4.6.0.20260123/newlib/libc/include/string.h:33
+08001f8c 0000009c T SystemClock_Config	/home/nathancharlesjones/Documents/Work/DigiKey/2026/videos/intro_to_lua/03_lua_and_HAL/Core/Src/main.c:188
+08001648 000000a4 T __sfp	/build/newlib-Ipb6mw/newlib-4.6.0.20260123/build_nano/arm-none-eabi/thumb/v7e-m+fp/hard/newlib/../../../../../../newlib/libc/stdio/findfp.c:174
+080024a2 000000ae T HAL_UART_Receive	/home/nathancharlesjones/Documents/Work/DigiKey/2026/videos/intro_to_lua/03_lua_and_HAL/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c:1221
+080010c0 000000bc T _free_r	/build/newlib-Ipb6mw/newlib-4.6.0.20260123/newlib/libc/include/malloc.h:50
+08002288 000000bc t UART_SetConfig	/home/nathancharlesjones/Documents/Work/DigiKey/2026/videos/intro_to_lua/03_lua_and_HAL/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c:3731
+080018a0 000000c4 T __smakebuf_r	/build/newlib-Ipb6mw/newlib-4.6.0.20260123/build_nano/arm-none-eabi/thumb/v7e-m+fp/hard/newlib/../../../../../../newlib/libc/stdio/makebuf.c:38
+08000524 000000c6 t critical_factorization	/build/newlib-Ipb6mw/newlib-4.6.0.20260123/build_nano/arm-none-eabi/thumb/v7e-m+fp/hard/newlib/../../../../../../newlib/libc/string/str-two-way.h:92
+08000cfc 000000ce T strchr	/build/newlib-Ipb6mw/newlib-4.6.0.20260123/newlib/libc/include/string.h:35
+08001578 000000d0 t global_stdio_init.part.0	/build/newlib-Ipb6mw/newlib-4.6.0.20260123/build_nano/arm-none-eabi/thumb/v7e-m+fp/hard/newlib/../../../../../../newlib/libc/stdio/findfp.c:159
+08001180 000000d8 T strlen	/build/newlib-Ipb6mw/newlib-4.6.0.20260123/build_nano/arm-none-eabi/thumb/v7e-m+fp/hard/newlib/../../../../../../newlib/libc/machine/arm/strlen-armv7.S:111
+08001308 000000fc T __swsetup_r	/build/newlib-Ipb6mw/newlib-4.6.0.20260123/build_nano/arm-none-eabi/thumb/v7e-m+fp/hard/newlib/../../../../../../newlib/libc/stdio/wsetup.c:33
+080019fc 00000100 T _malloc_r	/build/newlib-Ipb6mw/newlib-4.6.0.20260123/newlib/libc/include/malloc.h:42
+0800037c 00000124 T __sflush_r	/build/newlib-Ipb6mw/newlib-4.6.0.20260123/build_nano/arm-none-eabi/thumb/v7e-m+fp/hard/newlib/../../../../../../newlib/libc/stdio/fflush.c:103
+08000b88 00000130 T memmove	/build/newlib-Ipb6mw/newlib-4.6.0.20260123/newlib/libc/include/string.h:32
+08002908 00000134 T HAL_RCC_ClockConfig	/home/nathancharlesjones/Documents/Work/DigiKey/2026/videos/intro_to_lua/03_lua_and_HAL/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c:591
+08000248 00000134 T memcpy	/build/newlib-Ipb6mw/newlib-4.6.0.20260123/build_nano/arm-none-eabi/thumb/v7e-m+fp/hard/newlib/../../../../../../newlib/libc/machine/arm/memcpy-armv7m.S:102
+20000084 00000138 B __sf	/build/newlib-Ipb6mw/newlib-4.6.0.20260123/newlib/libc/include/sys/reent.h:274
+08002028 00000148 T main	/home/nathancharlesjones/Documents/Work/DigiKey/2026/videos/intro_to_lua/03_lua_and_HAL/Core/Src/main.c:89
+08000990 00000156 T strstr	/build/newlib-Ipb6mw/newlib-4.6.0.20260123/newlib/libc/include/string.h:48
+08002a7c 0000018c T HAL_GPIO_Init	/home/nathancharlesjones/Documents/Work/DigiKey/2026/videos/intro_to_lua/03_lua_and_HAL/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c:164
+08000000 00000198 R g_pfnVectors
+080005ec 0000019e t two_way_short_needle	/build/newlib-Ipb6mw/newlib-4.6.0.20260123/build_nano/arm-none-eabi/thumb/v7e-m+fp/hard/newlib/../../../../../../newlib/libc/string/str-two-way.h:199
+0800078c 00000202 t two_way_long_needle	/build/newlib-Ipb6mw/newlib-4.6.0.20260123/build_nano/arm-none-eabi/thumb/v7e-m+fp/hard/newlib/../../../../../../newlib/libc/string/str-two-way.h:293
+08000de0 000002de T strcmp	/build/newlib-Ipb6mw/newlib-4.6.0.20260123/build_nano/arm-none-eabi/thumb/v7e-m+fp/hard/newlib/../../../../../../newlib/libc/machine/arm/strcmp-armv7.S:134
+08001c48 000002f8 T __udivmoddi4	/build/gcc-arm-none-eabi-qAIoQe/gcc-arm-none-eabi-14.2.rel1/build/arm-none-eabi/thumb/v7e-m+fp/hard/libgcc/../../../../../../libgcc/libgcc2.c:995
+08002550 0000035c W HAL_RCC_OscConfig	/home/nathancharlesjones/Documents/Work/DigiKey/2026/videos/intro_to_lua/03_lua_and_HAL/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c:219
+08003048 00000470 T embedded_cli_insert_char	/home/nathancharlesjones/Documents/CodeLibraries/embeddedcli/embedded_cli.c:198
+20000220 00010400 B _end
+20020000 e7fe0198 R _estack

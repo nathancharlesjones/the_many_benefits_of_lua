@@ -11,6 +11,7 @@
 *.ilk
 *.map
 *.exp
+*.lst
 
 # Precompiled Headers
 *.gch
@@ -35,6 +36,8 @@
 *.i*86
 *.x86_64
 *.hex
+*.elf
+*.bin
 
 # Debug files
 *.dSYM/
@@ -53,3 +56,5 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+**/build
