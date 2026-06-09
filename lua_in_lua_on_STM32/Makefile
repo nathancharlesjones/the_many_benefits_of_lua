@@ -224,7 +224,7 @@ $(BUILD_DIR):
 
 flash:
 	openocd -f board/st_nucleo_f4.cfg \
-	        -c "program $(BUILD_DIR)/03_lua_and_HAL.bin verify reset exit 0x08000000"
+	        -c "program $(BUILD_DIR)/lua_in_lua_on_STM32.bin verify reset exit 0x08000000"
 
 #######################################
 # clean up

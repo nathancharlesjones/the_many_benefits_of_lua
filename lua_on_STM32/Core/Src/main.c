@@ -123,7 +123,7 @@ int main(void)
   luaL_requiref(L, "string", luaopen_string, 1); lua_pop(L, 1);
   luaL_requiref(L, "table",  luaopen_table,  1); lua_pop(L, 1);
 
-  printf("Lua REPL ready\r\n");
+  printf("Lua REPL ready\n");
   fflush(stdout); 
   
   struct embedded_cli cli;
@@ -139,7 +139,7 @@ int main(void)
         if (LUA_OK != luaL_dostring(L, line))
         {
             const char *msg = lua_tostring(L, -1);
-            printf("error: %s\n", msg ? msg : "(non-string error)");
+            printf("error: %s\r\n", msg ? msg : "(non-string error)");
             lua_pop(L, 1);
         }
         
