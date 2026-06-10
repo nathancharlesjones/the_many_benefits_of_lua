@@ -322,3 +322,11 @@ cmake --build build --target rp2040_and_HAL
 ```
 
 6. Flash the Pi Pico by holding BOOTSEL while plugging the USB cable into your computer. Drag and drop the `rp2040_and_HAL.uf2` file from the `build` folder to the USB mass storage device that should have appeared when you connected the Pi Pico. The Pico should restart and begin running the application as soon as the file transfer finishes.
+
+## References
+
+- [Lua homepage](https://www.lua.org/home.html)
+- "Programming in Lua" ([Amazon](https://www.amazon.com/exec/obidos/ASIN/8590379868/lua-demo-20) | [FeistyDuck](https://feistyduck.gumroad.com/l/programming-in-lua-fourth-edition-ebook?layout=profile))
+  - There is also an [online copy of the first edition](https://www.lua.org/pil/contents.html) of this book. Of note is [Part IV: The C API](https://www.lua.org/pil/24.1.html)
+- [Lua integration guide](https://lua.msys.ch/)
+- [Running a Lua VM on a Microcontroller: Lessons, Trade-offs, and Hard Limits](https://yairgadelov.me/running-a-lua-vm-on-a-microcontroller-lessons-trade-offs-and-hard-limits/)
