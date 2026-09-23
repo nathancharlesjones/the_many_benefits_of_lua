@@ -65,8 +65,8 @@ static void MX_USART2_UART_Init(void);
 /* USER CODE BEGIN 0 */
 int __io_getchar(void)
 {
-  uint8_t ch;
-  (void) HAL_UART_Receive(&huart2, &ch, 1, HAL_MAX_DELAY);
+  uint8_t ch = '\0';
+  (void) HAL_UART_Receive(&huart2, &ch, 1, 0);
   return (int)ch;
 }
 
@@ -150,7 +150,7 @@ int main(void)
   lua_register(L, "get_line", l_get_line);
   luahal_register(L);  // Registers rd, wr, pin, dr, dw, etc
   
-  embedded_cli_init(&cli, "> ", put_char, NULL);
+  embedded_cli_init(&cli, "\r> ", put_char, NULL);
   printf("Finished setup\n\r");
   
   const char* repl = 

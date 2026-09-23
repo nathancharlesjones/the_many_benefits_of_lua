@@ -63,8 +63,8 @@ static void MX_USART2_UART_Init(void);
 /* USER CODE BEGIN 0 */
 int __io_getchar(void)
 {
-  uint8_t ch;
-  (void) HAL_UART_Receive(&huart2, &ch, 1, HAL_MAX_DELAY);
+  uint8_t ch = '\0';
+  (void) HAL_UART_Receive(&huart2, &ch, 1, 0);
   return (int)ch;
 }
 
