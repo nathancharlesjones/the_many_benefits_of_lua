@@ -132,7 +132,8 @@ int main(void)
   
   while (1)
   {
-    if (embedded_cli_insert_char(&cli, __io_getchar()))
+    int c = __io_getchar();
+    if (c && embedded_cli_insert_char(&cli, c))
     {
         const char *line = embedded_cli_get_line(&cli);
 

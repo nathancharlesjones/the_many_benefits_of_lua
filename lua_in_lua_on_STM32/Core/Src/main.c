@@ -90,7 +90,8 @@ int l_cli_prompt(lua_State* L)
 
 int l_get_line(lua_State* L)
 {
-  if (embedded_cli_insert_char(&cli, __io_getchar()))
+  int c = __io_getchar();
+  if (c && embedded_cli_insert_char(&cli, c))
   {
       const char *line = embedded_cli_get_line(&cli);
       if (line && strlen(line) > 0)
